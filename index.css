@@ -31,7 +31,7 @@ body {
     margin: 0 auto;
     background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     color: white;
 }
 
